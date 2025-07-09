@@ -3,7 +3,7 @@
 
 **Local E-commerce WordPress Platform for Daily Essentials in Cumilla, Bangladesh**
 
-> Developed & maintained by Ashish Dev
+> Developed & maintained by Ashish Das
 
 ---
 
